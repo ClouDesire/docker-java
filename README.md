@@ -1,6 +1,8 @@
 docker-java
 =================
 
+# DEPRECATED - PLEASE USE https://hub.docker.com/_/openjdk/
+
 [![Circle CI](https://circleci.com/gh/ClouDesire/docker-java.svg?style=svg)](https://circleci.com/gh/ClouDesire/docker-java)
 
 Docker images with java in two different flavours:
